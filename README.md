@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python, C++ or Web Development.
 - 📫 How to reach me: Look down lazzy boy.
 
-## Langauage 
+## Language 
 ![html5](https://github.com/Louis2602/Louis2602/blob/main/res/html5.png)
 ![javascript](https://github.com/Louis2602/Louis2602/blob/main/res/js.png)
 ![css](https://github.com/Louis2602/Louis2602/blob/main/res/css3.png)
