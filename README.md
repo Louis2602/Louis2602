@@ -9,9 +9,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python, C++ or Web Development.
 - 📫 How to reach me: Look down lazzy boy.
 
-<h2 align="center">Technologies</h2>
-<br>
-
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -47,9 +44,8 @@ Here are some ideas to get you started:
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=FFCA28" alt="Python logo" title="Python" height="25" /></span>
 <br>
 
 <h2 align="center">Social Media</h2>
