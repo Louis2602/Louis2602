@@ -44,7 +44,15 @@ Here are some ideas to get you started:
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Arduino-282C34?logo=arduino&logoColor=00979D" alt="Arduino logo" title="Arduino" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/TensorFlow-282C34?logo=tensorflow&logoColor=FF6F00" alt="Tensorflow logo" title="Tensorflow" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/PyTorch-282C34?logo=pytorch&logoColor=EE4C2C" alt="Pytorch logo" title="Pytorch" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Jupyter-282C34?logo=jupyter&logoColor=F37626" alt="Jupyter logo" title="Jupyter" height="25" /></span>
 &nbsp;
 <br>
 
@@ -58,7 +66,7 @@ Here are some ideas to get you started:
   <a href="https://www.facebook.com/tunglam.262" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="louistran-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/DinoTran" target="blank">
+  <a href="https://www.youtube.com/LouisTran262" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="louistran-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/ttlam262" target="blank">
