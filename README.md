@@ -54,6 +54,8 @@ Here are some ideas to get you started:
 &nbsp;
 <span><img src="https://img.shields.io/badge/Jupyter-282C34?logo=jupyter&logoColor=F37626" alt="Jupyter logo" title="Jupyter" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/OpenCV-282C34?logo=opencv&logoColor=5C3EE8" alt="OpenCV logo" title="OpenCV" height="25" /></span>
+&nbsp;
 <br>
 
 <h2 align="center">Social Media</h2>
